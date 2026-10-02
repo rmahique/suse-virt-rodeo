@@ -9,7 +9,7 @@ notes:
   contents: |
     <span id="assignment.1" lang="ja" no># <span id="assignment.1.1"  lang="nolang" no>SUSE Virtualization Rodeo!</span>へようこそ
 
-    ラボ環境を準備していますので、しばらくお待ちください。</span><span lang="ja" id="ch1.waiting1" hist="vertrex-bank">バーテックス・トラスト銀行本社の窓に、雨が激しく打ちつけている……
+    ラボ環境を準備していますので、しばらくお待ちください。</span><span lang="ja" id="ch1.waiting1" hist="vertrex-bank">バーテックス・トラスト銀行本社の窓に、test 雨が激しく打ちつけている……
     CTOのサラが役員会議室であなたを待っている。</span>
     <img class="logos" src="../assets/logos/suse_logo.svg"/>
 tabs:
